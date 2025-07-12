@@ -30,7 +30,7 @@ This project implements an **Automated Essay Scoring (AES)** system using deep l
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aes-nlp-project.git
+git clone https://github.com/abin2273/aes-nlp-project.git
 cd aes-nlp-project
 pip install -r requirements.txt
 Requirements (main):
